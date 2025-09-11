@@ -1,10 +1,5 @@
 .DS_Store
 
-# Data Sets
-mushrooms.csv
-cars.csv
-tennis.csv
-
 # Outputs
 matriz_confusion.csv
 metricas.csv
